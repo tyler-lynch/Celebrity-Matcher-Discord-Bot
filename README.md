@@ -8,6 +8,9 @@ Example shown here:
 
 ![Screenshot of the bot in action, my profile picture is Drake and the bot returns Drake as a match.](DrakeExample.jpg)
 
+If you want to add the bot to your server the link is here:
+
+https://discord.com/api/oauth2/authorize?client_id=854450166995746866&permissions=518208&scope=bot
 
 ## Dependencies
 
