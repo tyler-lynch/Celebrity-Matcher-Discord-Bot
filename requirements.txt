@@ -1,0 +1,7 @@
+discord
+mtcnn
+keras_applications
+keras_vggface
+tensorflow-cpu
+pillow
+opencv-python-headless
